@@ -1,6 +1,6 @@
 # Odd Even Sort
 
-This repository contains c++ code for the odd-even sort algorithm.
+Odd Even Sort (Sequential and Parallel Algorithm) C++
 
 ## Instructions
 
